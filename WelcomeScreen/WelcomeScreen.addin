@@ -1,0 +1,10 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>WelcomeScreen</Name>
+        <Assembly>WelcomeScreen/WelcomeScreen.dll</Assembly>
+        <AddInId>5C94F51A-5E13-4DBD-8A5E-3E04D2D96A0F</AddInId>
+        <FullClassName>WelcomeScreen.Application</FullClassName>
+        <VendorId>CompanyName</VendorId>
+        <VendorDescription>Description</VendorDescription>
+    </AddIn>
+</RevitAddIns>
